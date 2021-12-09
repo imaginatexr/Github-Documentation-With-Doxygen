@@ -24,6 +24,9 @@ public class ChatManager : MonoBehaviour//, IChatClientListener
     /// Photon view object
     /// </summary>
     public PhotonView view;
+    /// <summary>
+    /// CHat UI controller
+    /// </summary>
     public ChatUIController chatUIController;
 
     private void OnEnable()
@@ -38,6 +41,11 @@ public class ChatManager : MonoBehaviour//, IChatClientListener
 #endif
     }
 
+    /// <summary>
+    /// Send mesage & sender name
+    /// </summary>
+    /// <param name="sender"></param>
+    /// <param name="message"></param>
     public void OnSendMessage(string sender, string message)
     {
         object[] data = {sender, message};
