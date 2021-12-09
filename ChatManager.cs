@@ -10,7 +10,13 @@ using UnityEngine;
 public class ChatManager : MonoBehaviour//, IChatClientListener
 {
    // ChatClient chatClient;
+   /// <summary>
+   /// User id 
+   /// </summary>
     [SerializeField] private string UserId;
+    /// <summary>
+    /// Channel name
+    /// </summary>
     [SerializeField] private string channelName;
 
     [SerializeField] private bool OnChatConnected = false;
