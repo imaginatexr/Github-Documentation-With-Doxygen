@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['view_0',['view',['../class_chat_manager.html#a338e8a5ea3712c187f3b74cbf47af1fa',1,'ChatManager']]]
+  ['trial_0',['TRIAL',['../md__t_r_i_a_l.html',1,'']]],
+  ['trial123_1',['TRIAL123',['../md__t_r_i_a_l123.html',1,'']]]
 ];

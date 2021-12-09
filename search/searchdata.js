@@ -1,11 +1,11 @@
 var indexSectionsWithContent =
 {
-  0: "_acfgmptv",
+  0: "_acfgmoptv",
   1: "cmp",
   2: "m",
   3: "m",
-  4: "_afmp",
-  5: "v",
+  4: "_afmop",
+  5: "cv",
   6: "gt"
 };
 
