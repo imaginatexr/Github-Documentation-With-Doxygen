@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['point_0',['Point',['../struct_point.html',1,'']]],
-  ['pyclass_1',['PyClass',['../classmain_1_1_py_class.html',1,'main']]]
+  ['myclass_0',['MyClass',['../class_my_namespace_1_1_my_class.html',1,'MyNamespace']]]
 ];

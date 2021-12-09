@@ -1,7 +1,7 @@
 var indexSectionsWithContent =
 {
-  0: "_afgmpt",
-  1: "mp",
+  0: "_acfgmpt",
+  1: "cmp",
   2: "m",
   3: "m",
   4: "_afmp",
