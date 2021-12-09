@@ -20,6 +20,9 @@ public class ChatManager : MonoBehaviour//, IChatClientListener
     [SerializeField] private string channelName;
 
     [SerializeField] private bool OnChatConnected = false;
+    /// <summary>
+    /// Photon view object
+    /// </summary>
     public PhotonView view;
     public ChatUIController chatUIController;
 
